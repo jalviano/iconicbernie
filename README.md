@@ -25,3 +25,10 @@ We will begin with the following icons, intended for use in the Bernie App and t
 19. Graph Increase
 20. Questionmark
 21. Share
+
+A couple of metrics to consider:
+
+1. The default stroke weight should be 100pt
+2. Empty space stroke weight should be 60pt
+3. The max width of an icon should be 1500pt
+4. The max height should be 1400pt
