@@ -5,9 +5,9 @@ Iconic Bernie Icon Library
 We will begin with the following icons, intended for use in the Bernie App and then expand the icon set into a full library for use across all digital Bernie products.
 
 1. [Group Users](groupIcon.svg)
-2. Single Users
-3. Plus
-4. Gear
+2. [Single Users](profileIcon.svg)
+3. [Plus](plusIcon.svg)
+4. [Gear](gearIcon.svg)
 5. Checkbox
 6. Pencil
 7. Calendar
