@@ -1,6 +1,3 @@
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
@@ -10,18 +7,3 @@
 	v60H880z M400,670h320V410H400V670z M340,730V350h440v380H340z M780,830v60H340v-60H780z M780,990v60H340v-60H780z M230,1210h1040
 	c83,0,150-67,150-150V190H240v890c0,17-13,30-30,30s-30-13-30-30V350H80v710C80,1143,147,1210,230,1210z"/>
 </svg>
-=======
->>>>>>> Stashed changes
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="1500px" height="1400px" viewBox="0 0 1500 1400" enable-background="new 0 0 1500 1400" xml:space="preserve">
-<path d="M880,890v-60h440v60H880z M880,1050v-60h440v60H880z M880,410v-60h440v60H880z M880,570v-60h440v60H880z M880,730v-60h440
-	v60H880z M400,670h320V410H400V670z M340,730V350h440v380H340z M780,830v60H340v-60H780z M780,990v60H340v-60H780z M230,1210h1040
-	c83,0,150-67,150-150V190H240v890c0,17-13,30-30,30s-30-13-30-30V350H80v710C80,1143,147,1210,230,1210z"/>
-</svg>
-<<<<<<< Updated upstream
-=======
->>>>>>> origin/master
->>>>>>> Stashed changes
